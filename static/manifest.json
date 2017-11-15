@@ -9,9 +9,6 @@
 			"js": ["content.js"]
 		}
 	],
-	"page_action": {
-		"default_title": %%NAME%%
-	},
 	"permissions": [
 	]
 }
